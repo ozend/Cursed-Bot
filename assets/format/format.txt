@@ -1,0 +1,4 @@
+
+    if message.content.startswith('+command'):
+        await message.channel.send('image/gif link')
+
