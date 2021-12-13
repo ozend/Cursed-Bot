@@ -20,4 +20,4 @@ async def on_message(message):
     if message.content.startswith('+voices'):
         await message.channel.send('https://c.tenor.com/qf36AOwq4eEAAAAd/cat-cursed.gif')
 
-client.run('OTE4NTcyOTE4NzkzOTg2MDcx.YbJNsg.E0yYoeoK5pTyWuQGK6s_IRUaB7A')
+client.run('OTE4NTcyOTE4NzkzOTg2MDcx.YbJNsg.VAv0mGFhLSRG-UufjBmRIFSr7') ADD "b8" TO THE END IF YOU WILL USE THIS CODE YOURSELF
